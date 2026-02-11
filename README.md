@@ -10,7 +10,7 @@
 
 > **A comprehensive, well-structured collection of High-Level Design (HLD) and Low-Level Design (LLD) notes — built for engineers preparing for system design interviews or deepening their architecture skills.**
 
-**Created & Maintained by [Arul G](https://github.com/ArulG)**
+**Created & Maintained by [Arul G](https://github.com/ArulG2005)**
 
 ---
 
